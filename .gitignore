@@ -1,0 +1,75 @@
+# =========================
+# Environment & Secrets
+# =========================
+.env
+*.env
+.env.*
+secrets.py
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+.env/
+
+# =========================
+# LangChain / LangSmith
+# =========================
+.langchain/
+langchain.db
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Logs & Output
+# =========================
+*.log
+logs/
+output/
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+htmlcov/
+.coverage
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
