@@ -237,7 +237,7 @@ MIT License — free to use, modify, and distribute.
 
 ## 🙋 Author
 
-**Arjun** — AI/ML Engineer  
+**Pratik** — AI/ML Engineer  
 [GitHub](https://github.com/pratikkkr) · [LinkedIn](https://www.linkedin.com/in/pratik-kumar-89a1101aa/)
 
 > Built as part of a hands-on agentic AI learning series.  
